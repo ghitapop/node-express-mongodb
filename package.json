@@ -1,0 +1,24 @@
+{
+  "name": "node-express-mongodb",
+  "version": "1.0.0",
+  "description": "REST web service using node, express and mongodb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ghitapop/node-express-mongodb.git"
+  },
+  "author": "Ghita Pop",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ghitapop/node-express-mongodb/issues"
+  },
+  "homepage": "https://github.com/ghitapop/node-express-mongodb#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "gulp": "^3.9.1",
+    "gulp-nodemon": "^2.1.0"
+  }
+}
