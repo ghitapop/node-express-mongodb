@@ -16,4 +16,4 @@ var lightBoxModel = new Schema({
     }
 });
 
-module.export = mongoose.model('LightBox', lightBoxModel);
+module.exports = mongoose.model('LightBox', lightBoxModel);
